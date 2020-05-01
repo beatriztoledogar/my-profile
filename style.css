@@ -1,0 +1,99 @@
+*{
+	margin: auto;
+  font-family: 'chalkduster';
+  font-size: 40px;
+  margin-top: 0px;
+}
+
+#nav {
+	width:100%;
+	height: 100vh;
+	background-image: url(back.JPG);
+	background-size: cover;
+	background-position: center;
+}
+
+.customization{
+	width:100%;
+	height: 100vh;
+	background-image: url(guillaume-galtier-3YrppYQPoCI-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.lookbook{
+	width: 100%;
+	height: 100vh;
+	background-image: url(szabo-viktor-28ZbKOWiZfs-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.gallery{
+	width: 100%;
+	height: 200vh;
+	background-image: url(diego-ph-vTitvl4O2kE-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.contact {
+	width:100%;
+	height: 100vh;
+    background-image: url(kenrick-mills-3-EiAnsIXps-unsplash.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.responsive{ 
+padding-top: 30px;
+margin-left: 600px;
+
+
+}
+
+}
+h1 {
+font-size: 70px;
+	color: black;
+}
+
+h2{
+	font-size: 100px;
+		color: black;
+
+}
+p{
+	font-size: 30px;
+	color: white;
+}
+
+
+  
+
+ol.menol{
+	list-style-type: none; 
+	margin-left: 1300px;
+	padding-top: 20px;
+	overflow: hidden;
+	
+}
+
+li.menli{
+	float: left;
+
+}
+
+li.menli a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 17px 18px;
+	text-decoration: none; 
+
+}
+
+a:hover { 
+  text-transform: uppercase;
+}
+
+
+
+
